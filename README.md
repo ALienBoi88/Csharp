@@ -1,2 +1,2 @@
-# C# sharp
+# C#
 mini project
